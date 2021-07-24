@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenedor{
+    display: flex;
+    column-gap: 1%;
+    padding: 20px;
+}
+
+.botonesIr{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    height: 40px;
+    color: #ffffff;
+    background-color: #5a9a90;
+    text-decoration: none;
+}

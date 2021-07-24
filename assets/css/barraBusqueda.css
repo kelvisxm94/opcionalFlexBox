@@ -1,0 +1,26 @@
+body{
+    margin: 100px;
+}
+
+.contenedor{
+    display: flex;
+}
+
+input{
+    width: 240px;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    height: 40px;
+    font-family: monospace;
+    font-size: 14px;
+    font-weight: 800;
+    background-color: #56cbf9;
+    color: #ffffff; 
+    text-decoration: none;
+    border: 1px solid #979797;
+}

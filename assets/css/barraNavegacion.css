@@ -1,0 +1,25 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #979797;
+    padding: 10px 30px;
+}
+.icon{
+    width: 50px;
+    height: auto;
+}
+.listNav{
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    column-gap: 20px;
+}
+.liNav{
+    color: #000000;
+    font-family: monospace;
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration: none;
+}
